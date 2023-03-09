@@ -1,4 +1,5 @@
-![](https://i.imgur.com/xG74tOh.png)
+Projeto do módulo 2 do curso de Dsenvolvimento de Software da Cubos Academy.
+
 
 # Desafio | Front-end - Módulo 2
 
