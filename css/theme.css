@@ -1,0 +1,25 @@
+:root {
+    --background-color-white-theme: #FFF;
+    --input-border-color-white-theme: #979797;
+    --color-white-theme: #000;
+    --shadow-color-white-theme: 0px 4px 8px rgba(0, 0, 0, 0.15);
+    --highlight-background-white-theme: #FFF;
+    --highlight-color-white-theme: rgba(0, 0, 0, 0.7);
+    --highlight-description-white-theme: #000;
+
+    --background-color-black-theme: #242424;
+    --input-border-color-black-theme: #FFF;
+    --color-black-theme: #FFF;
+    --shadow-color-black-theme: 0px 4px 8px rgba(255, 255, 255, 0.15);
+    --highlight-background-black-theme: #454545;
+    --highlight-color-black-theme: rgba(255, 255, 255, 0.7);
+    --highlight-description-black-theme: #FFF;
+
+    --background-color: var(--background-color-white-theme);
+    --input-border-color: var(--input-border-color-white-theme);
+    --color: var(--color-white-theme);
+    --shadow-color: var(--shadow-color-white-theme);
+    --highlight-background: var(--highlight-background-white-theme);
+    --highlight-color: var(--highlight-color-white-theme);
+    --highlight-description: var(--highlight-description-white-theme);
+}
