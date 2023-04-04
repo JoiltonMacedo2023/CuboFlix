@@ -16,3 +16,5 @@ O objetivo foi construir um website com o design passado pelo Figma que permitis
 - Modal de filme
 - Mudança de tema
 
+
+link da página: https://lnkd.in/d_pR7MVk
